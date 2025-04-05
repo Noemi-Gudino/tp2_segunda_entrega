@@ -1,0 +1,2 @@
+# Requiere Python >= 3.12.9
+notebook==7.3.3
